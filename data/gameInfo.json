@@ -207,6 +207,16 @@
         "Throwing grenades without holstering the current weapon",
         "Smart AI, utilizing cover and teamwork"
       ]
+    },
+    "doom2016":{
+      "title": "Doom",
+      "cover": "img/doom2016.jpg",
+      "developer": "id Software",
+      "year": 2016,
+      "summary": "According to id Software Executive Producer Marty Stratton, the key principles of Doom's single-player mode are \"badass demons, big effing guns, and moving really fast\". The game allows players to perform movements such as double-jumps and ledge-climbs throughout levels of industrial and corporate fields of a Union Aerospace Corporation (UAC) research facility on Mars and then levels of Hell, as the combat system puts emphasis upon momentum and speed. The approach is known as \"push-forward combat\" which discourages the players from taking cover behind obstacles or resting to regain health while playing from the \"Doom Slayer\"'s perspective. Players instead collect health and armor pick-ups by killing enemies. \"Glory Kills\" is a newly introduced melee execution system; when enough damage has been dealt to an enemy, the game will highlight it and allow the player to perform a quick and violent melee takedown as well as reward the player with extra health.",
+      "splash": "img/doom2016_gp.jpg",
+      "spot": "Returning to the roots of the genre, Doom is a modern take on the classic that defined the genre.",
+      "features": []
     }
   }
 }
