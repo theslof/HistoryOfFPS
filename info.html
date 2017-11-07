@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/unsemantic-grid-responsive-tablet.css"/>
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <title>History of FPS Games</title>
+</head>
+<body>
+<div class="grid-container">
+    <header class="grid-90 prefix-5 suffix-5 mobile-grid-100 tablet-grid-90 tablet-prefix-5 tablet-suffix-5">
+        <a href="index.html"><img id="logo" src="img/logo.png" alt="Logo" /></a>
+        <h1>History of FPS Games</h1>
+        <nav class="nav_list">
+            <ul>
+                <li><a href="index.html#ch1">Origins</a></li>
+                <li><a href="index.html#ch2">Early years - 90's</a></li>
+                <li><a href="index.html#ch3">Console gaming and online</a></li>
+                <li><a href="index.html#ch4">Looking to the future</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section
+            class="grid-90 prefix-5 suffix-5 mobile-grid-100 tablet-grid-90 tablet-prefix-5 tablet-suffix-5 grid-parent">
+        <article class="grid-100 mobile-grid-100 tablet-grid-100">
+            <img alt="Box art" id="cover" src=""/>
+            <h2 id="titleName"></h2>
+            <h3 id="developer"></h3>
+            <h3 id="year"></h3>
+            <ul id="score">
+                <li><img alt="Star" id="star1" class="scoreStar" src="img/star_empty.svg" onclick="setScore(1)" /></li>
+                <li><img alt="Star" id="star2" class="scoreStar" src="img/star_empty.svg" onclick="setScore(2)" /></li>
+                <li><img alt="Star" id="star3" class="scoreStar" src="img/star_empty.svg" onclick="setScore(3)" /></li>
+                <li><img alt="Star" id="star4" class="scoreStar" src="img/star_empty.svg" onclick="setScore(4)" /></li>
+                <li><img alt="Star" id="star5" class="scoreStar" src="img/star_empty.svg" onclick="setScore(5)" /></li>
+            </ul>
+            <p id="summary"></p>
+        </article>
+        <article class="grid-100 mobile-grid-100 tablet-grid-100" id="storyText">
+            <h3 id="featHead">Key features</h3>
+            <ul id="features"></ul>
+        </article>
+    </section>
+    <footer class="grid-90 prefix-5 suffix-5 mobile-grid-100 tablet-grid-90 tablet-prefix-5 tablet-suffix-5">
+        <p id="wishMessage" onload="$('wishMessage').hide()"></p>
+        <form id="wishForm">
+            <fieldset>
+                <legend>Add to wishlist</legend>
+                <p><label for="name">Name: </label>
+                    <input type="text" name="name" id="name" required="required" placeholder="Your Name"/></p>
+                <p><label for="email">Email: </label>
+                    <input type="email" name="email" id="email" required="required" placeholder="email@domain.com"/></p>
+                <p><input type="submit" value="Submit"/></p>
+            </fieldset>
+        </form>
+    </footer>
+</div>
+<script src="js/jquery-3.2.1.js"></script>
+<script src="js/url.js"></script>
+<script src="js/gameInfo.js"></script>
+<script src="js/wishlist.js"></script>
+</body>
+</html>

@@ -1,0 +1,212 @@
+{
+  "ch1": {
+    "mazewar": {
+      "title": "Maze War",
+      "cover": "img/mazewar.jpg",
+      "developer": "Steve Colley",
+      "year": 1974,
+      "summary": "Maze War (also known as The Maze Game, Maze Wars, Mazewar or simply Maze) is a 1974 computer game which originated or disseminated a number of concepts used in thousands of games to follow, and is considered one of the earliest examples of, or progenitor of, a first-person shooter.",
+      "splash": "img/mazewar_gp.jpg",
+      "spot": "One of the earliest known example of an FPS.",
+      "features": []
+    },
+    "battlezone": {
+      "title": "Battlezone",
+      "cover": "img/battlezone.jpg",
+      "developer": "Atari, Inc.",
+      "year": 1980,
+      "summary": "Battlezone is a first-person shooter tank combat arcade game from Atari, Inc. released in November 1980. The player controls a tank which is attacked by other tanks and missiles. The game uses wireframe vector graphics on a black and white (with green and red sectioned color overlay) vector monitor.",
+      "splash": "img/battlezone_gp.png",
+      "spot": "One of the earliest commercial FPS games.",
+      "features": []
+    },
+    "midimaze": {
+      "title": "Midi Maze",
+      "cover": "img/midimaze.jpg",
+      "developer": "Xanth Software F/X",
+      "year": 1987,
+      "summary": "It has been suggested that MIDI Maze introduced the concept of deathmatch combat.Up to 16 computers could be networked in a \"MIDI Ring\" by connecting one computer's MIDI-OUT port to the next computer's MIDI-IN port. Unless the computers were looped correctly, more than 4 players tended to slow down the game to a crawl and make it unstable. Graphically the game was very simple with a humorous twist. The game area itself occupied only roughly a quarter of the screen and consisted of a first-person view of a flat-shaded Pac-Man-like maze with a crosshair in the middle. All players were shown as Pac-Man-like smiley avatars in various colors. Bullets were represented as small balls.",
+      "splash": "img/midimaze_gp.png",
+      "spot": "Credited with inventing the \"Deathmatch\" mode, this game used the midi ports for multiplayer gameplay.",
+      "features": []
+    },
+    "hovertank3d": {
+      "title": "Hovertank 3D",
+      "cover": "img/hovertank3d.jpg",
+      "developer": "id Software",
+      "year": 1991,
+      "summary": "An early example of a game using raycasting. The engine was later expanded and used in games such as Catacomb 3D and Wolfenstein 3D.",
+      "splash": "img/hovertank3d_gp.png",
+      "spot": "The quick brown fox jumps over the lazy dog.",
+      "features": []
+    },
+    "catacomb3d": {
+      "title": "Catacomb 3-D",
+      "cover": "img/catacomb3d.png",
+      "developer": "id Software",
+      "year": 1991,
+      "summary": "Catacomb 3-D is the third in the Catacomb series of video games, and the first of these games to feature 3D computer graphics. The game was originally published by Softdisk under the Gamer's Edge label, and is a first-person shooter with a dark fantasy setting. The player takes control of the high wizard Petton Everhail, descending into the catacomb of the Towne Cemetery to defeat the evil lich Nemesis and rescue his friend Grelminar. Catacomb 3-D is a landmark title in terms of first-person graphics. The game was released in November 1991 and is arguably the first example of the modern, character-based first-person shooter genre, or at least it was a direct ancestor to the games that popularized the genre. It was released for MS-DOS with EGA graphics. The game introduced the concept of showing the player's hand in the three-dimensional viewpoint, and an enhanced version of its technology was later used for the more successful and well-known Wolfenstein 3D. The game's more primitive technological predecessor was Hovertank 3D.",
+      "splash": "img/catacomb3d_gp.png",
+      "spot": "The quick brown fox jumps over the lazy dog.",
+      "features": []
+    }
+  },
+  "ch2": {
+    "wolfenstein3d": {
+      "title": "Wolfenstein 3D",
+      "cover": "img/wolfenstein3d.jpg",
+      "developer": "id Software",
+      "year": 1992,
+      "summary": "Wolfenstein 3D is a first-person shooter video game developed by id Software and published by Apogee Software and FormGen. Originally released on May 5, 1992 for MS-DOS, it was inspired by the 1981 Muse Software video game Castle Wolfenstein. In Wolfenstein 3D, the player assumes the role of Allied spy William \"B.J.\" Blazkowicz during World War II as he escapes from the Nazi German prison Castle Wolfenstein and carries out a series of crucial missions against the Nazis. The player traverses through each of the game's levels to find an elevator to the next level or kill a final boss, fighting Nazi soldiers, dogs, and other enemies with knives, pistols, and other guns.",
+      "splash": "img/wolfenstein3d_gp.jpg",
+      "spot": "Grandfather of modern FPS.",
+      "features": [
+        "Fast-paced gameplay",
+        "Unusually violent",
+        "Wall decorations and doors",
+        "Instant pickup of items",
+        "Shareware model"
+      ]
+    },
+    "doom": {
+      "title": "Doom",
+      "cover": "img/doom.jpg",
+      "developer": "id Software",
+      "year": 1993,
+      "summary": "In Doom, players assume the role of an unnamed space marine, who became popularly known as \"Doomguy\", fighting his way through hordes of invading demons from Hell.[2] With one-third of the game (nine levels) distributed as shareware, Doom was played by an estimated 15–20 million people[3] within two years of its release, popularizing both the business model of online distribution[4] and the mode of gameplay, and spawning a gaming subculture. In addition to popularizing the FPS genre, it pioneered immersive 3D graphics, networked multiplayer gaming, and support for customized additions and modifications via packaged files in a data archive known as \"WADs\". As a sign of its effect on the industry, first-person shooter games from the genre's boom in the 1990s, helped in no small part by the game's release, became known simply as \"Doom clones\". Its graphic violence, as well as satanic imagery, made Doom the subject of considerable controversy.",
+      "splash": "img/doom_gp.jpg",
+      "spot": "Classic by id Software.",
+      "features": []
+    },
+    "duke3d": {
+      "title": "Duke Nukem 3D",
+      "cover": "img/duke3d.jpg",
+      "developer": "3D Realms",
+      "year": 1996,
+      "summary": "Duke Nukem 3D features the adventures of the titular macho Duke Nukem, voiced by Jon St. John, who fights against an alien invasion on Earth. Along with Wolfenstein 3D and Doom, Duke Nukem 3D is considered to be responsible for popularizing first-person shooters, and was released to major acclaim. Reviewers praised the interactivity of the environments, gameplay, level design, and unique risqué humor, a mix of pop-culture satire and lampooning of over-the-top Hollywood action heroes. The game's violent nature, erotic elements, and portrayal of women incited controversy.",
+      "splash": "img/duke3d_gp.jpg",
+      "spot": "The quick brown fox jumps over the lazy dog.",
+      "features": []
+    },
+    "heretic": {
+      "title": "Heretic",
+      "cover": "img/heretic.jpg",
+      "developer": "Raven Software",
+      "year": 1994,
+      "summary": "Using a modified version of the Doom engine, Heretic was one of the first first-person games to feature inventory manipulation and the ability to look up and down. It also introduced multiple gib objects that spawned when a character suffered a death by extreme force or heat. Previously, the character would simply crumple into a heap. The game used randomized ambient sounds and noises, such as evil laughter, chains rattling, distantly ringing bells, and water dripping in addition to the background music to further enhance the atmosphere. The music in the game was composed by Kevin Schilder. An indirect sequel, Hexen: Beyond Heretic, was released the following year. Heretic II was released in 1998, which served as a direct sequel continuing the story.",
+      "splash": "img/heretic_gp.jpg",
+      "spot": "The quick brown fox jumps over the lazy dog.",
+      "features": []
+    },
+    "swdf": {
+      "title": "Star Wars: Dark Forces",
+      "cover": "img/swdf.jpg",
+      "developer": "LucasArts",
+      "year": 1995,
+      "summary": "Star Wars: Dark Forces is a first-person shooter video game developed and published by LucasArts. It was released in 1995 for MS-DOS and Macintosh, and in 1996 for the PlayStation. The storyline is set in the Star Wars fictional universe and follows the character Kyle Katarn, a mercenary working on behalf of the Rebel Alliance. He discovers the Empire's \"Dark Trooper Project\", which involves the development of a series of powerful new battle droids and power-armored stormtroopers. Dark Forces uses the Jedi game engine, which was developed specifically for the game. The engine adds gameplay features to the first-person shooter genre which were uncommon at the time of release, including level designs with multiple floors and the ability to look up and down.",
+      "splash": "img/swdf_gp.jpg",
+      "spot": "The quick brown fox jumps over the lazy dog.",
+      "features": []
+    },
+    "marathon": {
+      "title": "Marathon",
+      "cover": "img/marathon.jpg",
+      "developer": "Bungie",
+      "year": 1994,
+      "summary": "Although Marathon is a first-person shooter, the game is known for having an intricate storyline that is also an essential element of its gameplay, whereas many similar games devote minimal attention to plot in favor of faster, more action-oriented gameplay. In addition to its single-player scenario, Marathon also features a multiplayer deathmatch mode through which up to eight players can compete against each other on the same computer network, via individually linked computers. This functionality increased anticipation for Marathon prior to release, and won the game the Macworld Game Hall of Fame Award for the best multiplayer game in 1995.",
+      "splash": "img/marathon_gp.jpg",
+      "spot": "The quick brown fox jumps over the lazy dog.",
+      "features": []
+    }
+  },
+  "ch3": {
+    "jumpingflash": {
+      "title": "Jumping Flash!",
+      "cover": "img/jumpingflash.jpg",
+      "developer": "Exact, Ultra",
+      "year": 1995,
+      "summary": "Presented in a first-person perspective, the game follows a robotic rabbit named \"Robbit\" as he searches for missing jet pods scattered by the game's astrophysicist antagonist character Baron Aloha. Robbit must explore each section of Crater Planet to retrieve all of the jet pods, stop Aloha and save the world from being destroyed. The game was designed as a technology demonstrator for the PlayStation console and was revealed in early 1994 under the provisional title of \"Spring Man\". Jumping Flash! utilises much of the game engine used in Geograph Seal, an earlier game by Exact for the Sharp X68000 home computer. Jumping Flash! has been described as an ancestor of as well as an early showcase for 3D graphics in console gaming. It was generally well received by critics, who praised its graphics and unique 3D platforming gameplay, but it was eventually overshadowed by later 3D platformers of the fifth console generation. Jumping Flash! spawned two sequels: Jumping Flash! 2 and Robbit Mon Dieu. Despite the overwhelmingly positive reviews at the time of release, and even an appearance in Next Generation's \"Top 100 Games of All Time\" just one year after, the game was described as the third-most underrated video game of all time by Matt Casamassina of IGN in 2007. It also holds the Guinness World Record as the \"first platform video game in true 3D\".",
+      "splash": "img/jumpingflash_gp.jpg",
+      "spot": "The quick brown fox jumps over the lazy dog.",
+      "features": []
+    },
+    "descent": {
+      "title": "Descent",
+      "cover": "img/descent.jpg",
+      "developer": "Parallax Software",
+      "year": 1995,
+      "summary": "The original Descent was developed by Parallax Software for the DOS platform. Like most games of its era, the game was developed with a software renderer, because mainstream 3D graphics accelerator cards did not exist at the time. However, while most of its contemporaries—Doom included—use sprites, to render enemies, Descent renders enemies in full 3D using polygon meshes, a technique employed by Quake one year later. Sprites are used only for power-ups and the hostages. Descent's graphics engine uses portal rendering, taking advantage of the game's use of collections of cubes to form rooms and tunnels, in contrast with Doom and Quake, which use BSP trees. This system was very efficient, and made possible one of the first true 3D textured environments in a video game. On lower-end systems, detail levels could be reduced to cut out some of the smaller polygons on robots and render solid color blocks in place of textures on distant walls and across passageways in the distance. Within the game, sides of cubes can be attached to other cubes, or display up to two texture maps. Cubes can be deformed so long as they remain convex. To create effects like doors and see-through grating, walls could be placed at the connected sides of two cubes. The game also introduced an elaborate static lighting scheme alongside its simple dynamic lighting, where the environment could be lit with flares—another advancement compared to Doom. Descent II later added more dynamic lighting effects, including the ability to shoot out light fixtures.",
+      "splash": "img/descent_gp.gif",
+      "spot": "The quick brown fox jumps over the lazy dog.",
+      "features": []
+    },
+    "quake": {
+      "title": "Quake",
+      "cover": "img/quake.jpg",
+      "developer": "id Software",
+      "year": 1996,
+      "summary": "The successor to id Software's Doom series, Quake built upon the technology and gameplay of its predecessor. Unlike the Doom engine before it, the Quake engine offered full real-time 3D rendering and had early support for 3D acceleration through OpenGL. After Doom helped popularize multiplayer deathmatches, Quake added various multiplayer options. Online multiplayer became increasingly common, with the QuakeWorld update and software such as QuakeSpy making the process of finding and playing against others on the Internet easier and more reliable. It features music composed by Trent Reznor and Nine Inch Nails.",
+      "splash": "img/quake_gp.jpg",
+      "spot": "The quick brown fox jumps over the lazy dog.",
+      "features": []
+    },
+    "goldeneye": {
+      "title": "GoldenEye 007",
+      "cover": "img/goldeneye.jpg",
+      "developer": "Rare",
+      "year": 1997,
+      "summary": "GoldenEye 007 was developed over a period of two and a half years by an inexperienced team. It was originally conceived as an on-rails shooter inspired by Sega's Virtua Cop, before being redesigned as a free-roaming shooter. The game was highly acclaimed by the gaming media and sold over eight million copies worldwide, making it the third-best-selling Nintendo 64 game. It received the BAFTA Interactive Entertainment Games Award and four awards from the Academy of Interactive Arts & Sciences. Retrospectively, GoldenEye 007 is considered an important game in the history of first-person shooters for demonstrating the viability of game consoles as platforms for the genre, and for signalling a transition from the then-standard Doom-like approach to a more realistic style. It pioneered features such as atmospheric single-player missions, stealth elements, and a console multiplayer deathmatch mode. The game is frequently cited as one of the greatest video games of all time.",
+      "splash": "img/goldeneye_gp.jpg",
+      "spot": "The quick brown fox jumps over the lazy dog.",
+      "features": []
+    },
+    "rainbowsix": {
+      "title": "Tom Clancy's Rainbow Six",
+      "cover": "img/rainbowsix.jpg",
+      "developer": "Red Storm Entertainment",
+      "year": 1998,
+      "summary": "Rainbox Six popularized the tactical shooter genre.",
+      "splash": "img/rainbowsix_gp.jpg",
+      "spot": "The quick brown fox jumps over the lazy dog.",
+      "features": []
+    },
+    "medalofhonor": {
+      "title": "Medal of Honor",
+      "cover": "img/medalofhonor.jpg",
+      "developer": "DreamWorks Interactive",
+      "year": 1999,
+      "summary": "Medal of Honor was one of the first in a long series of WW2 games, having a grand story written by Steven Spielberg.",
+      "splash": "img/medalofhonor_gp.jpg",
+      "spot": "The quick brown fox jumps over the lazy dog.",
+      "features": []
+    },
+    "halflife": {
+      "title": "Half-Life",
+      "cover": "img/halflife.jpg",
+      "developer": "Valve",
+      "year": 1998,
+      "summary": "Unlike many other games at the time, Half-Life features no cutscenes; the player has uninterrupted control of Freeman, and the story is told through scripted sequences seen through his eyes. Valve co-founder Gabe Newell said the team had wanted to create an immersive world rather than a \"shooting gallery\". The game's engine, GoldSrc, is a heavily modified version of the Quake engine licensed from id Software. Half-Life received acclaim for its graphics, realistic gameplay, and seamless narrative. It won over fifty PC \"Game of the Year\" awards and is often considered one of the greatest games of all time.[3] It influenced first-person shooters for years after its release; according to IGN, the history of the genre \"breaks down pretty cleanly into pre-Half-Life and post-Half-Life eras.\"",
+      "splash": "img/halflife_gp.jpg",
+      "spot": "The quick brown fox jumps over the lazy dog.",
+      "features": []
+    }
+  },
+  "ch4": {
+    "halo": {
+      "title": "Halo: Combat Evolved",
+      "cover": "img/halo.jpg",
+      "developer": "Bungie",
+      "year": 2001,
+      "summary": "Halo is set in the twenty-sixth century, with the player assuming the role of the Master Chief, a cybernetically enhanced supersoldier. The player is accompanied by Cortana, an artificial intelligence who occupies the Master Chief's neural interface. Players battle various aliens as they attempt to uncover the secrets of the eponymous Halo, a ring-shaped artificial world. The game has been commended for elements such as its story, the variety of strategies players can employ, and its multiplayer mode; however, the repetitive nature of its level design was criticized by some reviewers. Halo has been praised as one of the greatest video games of all time, and was ranked by IGN as the fourth-best first-person shooter made. The game's popularity has led to labels such as \"Halo clone\" and \"Halo killer\", applied respectively to games either similar to or anticipated to be better than it. In addition, the game inspired and was used in the fan-created Red vs. Blue video series, which is credited as the \"first big success\" of machinima (the technique of using real-time 3D engines, often from video games, to create animated films).",
+      "splash": "img/halo_gp.jpg",
+      "spot": "Building on ideas popularized by Half-Life, Halo is remembered as the game that cemented the console FPS genre.",
+      "features": [
+        "Regenerating hit points",
+        "Vehicular combat",
+        "\"Quick Melee\", ie. using the current weapon as a blunt instrument",
+        "Throwing grenades without holstering the current weapon",
+        "Smart AI, utilizing cover and teamwork"
+      ]
+    }
+  }
+}
